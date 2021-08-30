@@ -34,8 +34,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/romrz/mgo/bson"
-	"github.com/romrz/mgo/internal/scram"
+	"github.com/romrzh/mgo/bson"
+	"github.com/romrzh/mgo/internal/scram"
 )
 
 type authCmd struct {
